@@ -27,7 +27,8 @@ In this project, I've set up a dedicated space to explore the capabilities of AW
    <img src="https://i.imgur.com/BQV7dHH.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 
-<h3>  Implementing SSO: Project baselines <h3/> <h3/>
+<h3>  Implementing SSO: Project baselines <h3/> 
+ 
     <img src="https://i.imgur.com/mQvSeYf.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 - Permissions set type
@@ -38,6 +39,7 @@ In this project, I've set up a dedicated space to explore the capabilities of AW
 <img src="https://i.imgur.com/tH57e57.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 - Assign this new Billing Group to AWS accounts
+  
 <img src="https://i.imgur.com/g309kIX.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 <img src="https://i.imgur.com/X9cmuMc.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 <img src="https://i.imgur.com/EjPtZ5p.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
