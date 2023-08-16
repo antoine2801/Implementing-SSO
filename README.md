@@ -45,6 +45,8 @@ In this project, I've set up a dedicated space to explore the capabilities of AW
 <img src="https://i.imgur.com/EjPtZ5p.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 
 -Test SSO access 
+
+
 <img src="https://i.imgur.com/KkkFdPZ.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 <img src="https://i.imgur.com/Kc7FMAK.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
 <img src="https://i.imgur.com/gzAWb6R.png" height="80%" width="80%" alt="Building and Securing an AWS VPC Steps"/>
